@@ -1,0 +1,330 @@
+{
+  "generatedAt": "2026-07-09T19:22:48.680Z",
+  "assets": [
+    {
+      "id": "Athletics",
+      "source": "raw/Athletics.jpeg",
+      "optimized": "optimized/Athletics.webp",
+      "format": "webp",
+      "width": 1920,
+      "height": 957,
+      "bytesRaw": 182877,
+      "bytes": 122730,
+      "savingsPercent": 33
+    },
+    {
+      "id": "FitnessLoft_BRAND_LOGO_NOIR_COMPLET",
+      "source": "raw/FitnessLoft_BRAND_LOGO_NOIR_COMPLET.svg",
+      "optimized": "optimized/FitnessLoft_BRAND_LOGO_NOIR_COMPLET.svg",
+      "format": "svg",
+      "bytes": 6754
+    },
+    {
+      "id": "FitnessLoft_BRAND_LOGO_NOIR_GAUCHE",
+      "source": "raw/FitnessLoft_BRAND_LOGO_NOIR_GAUCHE.svg",
+      "optimized": "optimized/FitnessLoft_BRAND_LOGO_NOIR_GAUCHE.svg",
+      "format": "svg",
+      "bytes": 5184
+    },
+    {
+      "id": "FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE",
+      "source": "raw/FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE.png",
+      "optimized": "optimized/FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE.webp",
+      "format": "webp",
+      "width": 305,
+      "height": 328,
+      "bytesRaw": 9591,
+      "bytes": 4294,
+      "savingsPercent": 55
+    },
+    {
+      "id": "FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE",
+      "source": "raw/FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE.svg",
+      "optimized": "optimized/FitnessLoft_BRAND_LOGO_NOIR_SYMBOLE.svg",
+      "format": "svg",
+      "bytes": 1761
+    },
+    {
+      "id": "Golf-scaled-1",
+      "source": "raw/Golf-scaled-1.jpg",
+      "optimized": "optimized/Golf-scaled-1.webp",
+      "format": "webp",
+      "width": 2048,
+      "height": 2560,
+      "bytesRaw": 566335,
+      "bytes": 344556,
+      "savingsPercent": 39
+    },
+    {
+      "id": "Le-Fitness-Loft-Final-V1v1-1080p",
+      "source": "raw/Le-Fitness-Loft-Final-V1v1-1080p.mp4",
+      "optimized": "optimized/Le-Fitness-Loft-Final-V1v1-1080p.mp4",
+      "format": "mp4",
+      "bytes": 10038872
+    },
+    {
+      "id": "Quotes-Icon",
+      "source": "raw/Quotes-Icon.png",
+      "optimized": "optimized/Quotes-Icon.webp",
+      "format": "webp",
+      "width": 300,
+      "height": 300,
+      "bytesRaw": 2654,
+      "bytes": 3036,
+      "savingsPercent": -14
+    },
+    {
+      "id": "chris",
+      "source": "raw/chris.jpg",
+      "optimized": "optimized/chris.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 72897,
+      "bytes": 67442,
+      "savingsPercent": 7
+    },
+    {
+      "id": "cours-groupe-02",
+      "source": "raw/cours-groupe-02.jpg",
+      "optimized": "optimized/cours-groupe-02.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 112707,
+      "bytes": 100390,
+      "savingsPercent": 11
+    },
+    {
+      "id": "cours-groupe-03",
+      "source": "raw/cours-groupe-03.jpg",
+      "optimized": "optimized/cours-groupe-03.webp",
+      "format": "webp",
+      "width": 1069,
+      "height": 1604,
+      "bytesRaw": 120021,
+      "bytes": 119490,
+      "savingsPercent": 0
+    },
+    {
+      "id": "cours-groupe",
+      "source": "raw/cours-groupe.jpg",
+      "optimized": "optimized/cours-groupe.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 96640,
+      "bytes": 85738,
+      "savingsPercent": 11
+    },
+    {
+      "id": "emilie",
+      "source": "raw/emilie.jpg",
+      "optimized": "optimized/emilie.webp",
+      "format": "webp",
+      "width": 1094,
+      "height": 1642,
+      "bytesRaw": 51051,
+      "bytes": 43338,
+      "savingsPercent": 15
+    },
+    {
+      "id": "entrainement-prive-01",
+      "source": "raw/entrainement-prive-01.jpg",
+      "optimized": "optimized/entrainement-prive-01.webp",
+      "format": "webp",
+      "width": 1106,
+      "height": 1659,
+      "bytesRaw": 146999,
+      "bytes": 142710,
+      "savingsPercent": 3
+    },
+    {
+      "id": "entrainement-prive-02",
+      "source": "raw/entrainement-prive-02.jpg",
+      "optimized": "optimized/entrainement-prive-02.webp",
+      "format": "webp",
+      "width": 1048,
+      "height": 1572,
+      "bytesRaw": 146402,
+      "bytes": 150962,
+      "savingsPercent": -3
+    },
+    {
+      "id": "entrainement-prive-03",
+      "source": "raw/entrainement-prive-03.jpg",
+      "optimized": "optimized/entrainement-prive-03.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 104105,
+      "bytes": 94926,
+      "savingsPercent": 9
+    },
+    {
+      "id": "evaluation-sante-01",
+      "source": "raw/evaluation-sante-01.jpg",
+      "optimized": "optimized/evaluation-sante-01.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 63497,
+      "bytes": 55616,
+      "savingsPercent": 12
+    },
+    {
+      "id": "evaluation-sante-02",
+      "source": "raw/evaluation-sante-02.jpg",
+      "optimized": "optimized/evaluation-sante-02.webp",
+      "format": "webp",
+      "width": 1097,
+      "height": 1646,
+      "bytesRaw": 77306,
+      "bytes": 69016,
+      "savingsPercent": 11
+    },
+    {
+      "id": "evaluation-sante-03",
+      "source": "raw/evaluation-sante-03.jpg",
+      "optimized": "optimized/evaluation-sante-03.webp",
+      "format": "webp",
+      "width": 1107,
+      "height": 1661,
+      "bytesRaw": 77928,
+      "bytes": 66680,
+      "savingsPercent": 14
+    },
+    {
+      "id": "fitnessloft-entree",
+      "source": "raw/fitnessloft-entree.jpg",
+      "optimized": "optimized/fitnessloft-entree.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 110311,
+      "bytes": 96754,
+      "savingsPercent": 12
+    },
+    {
+      "id": "gym-44",
+      "source": "raw/gym-44.jpg",
+      "optimized": "optimized/gym-44.webp",
+      "format": "webp",
+      "width": 400,
+      "height": 300,
+      "bytesRaw": 23156,
+      "bytes": 13588,
+      "savingsPercent": 41
+    },
+    {
+      "id": "gym-reverse",
+      "source": "raw/gym-reverse.jpg",
+      "optimized": "optimized/gym-reverse.webp",
+      "format": "webp",
+      "width": 1679,
+      "height": 1119,
+      "bytesRaw": 216939,
+      "bytes": 257362,
+      "savingsPercent": -19
+    },
+    {
+      "id": "hayley",
+      "source": "raw/hayley.jpg",
+      "optimized": "optimized/hayley.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 81720,
+      "bytes": 80924,
+      "savingsPercent": 1
+    },
+    {
+      "id": "kine-sportive",
+      "source": "raw/kine-sportive.jpg",
+      "optimized": "optimized/kine-sportive.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 74288,
+      "bytes": 70262,
+      "savingsPercent": 5
+    },
+    {
+      "id": "masso-01",
+      "source": "raw/masso-01.jpg",
+      "optimized": "optimized/masso-01.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 59797,
+      "bytes": 48584,
+      "savingsPercent": 19
+    },
+    {
+      "id": "masso-02",
+      "source": "raw/masso-02.jpg",
+      "optimized": "optimized/masso-02.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 81881,
+      "bytes": 76102,
+      "savingsPercent": 7
+    },
+    {
+      "id": "mathieu",
+      "source": "raw/mathieu.jpg",
+      "optimized": "optimized/mathieu.webp",
+      "format": "webp",
+      "width": 1110,
+      "height": 1665,
+      "bytesRaw": 77874,
+      "bytes": 72690,
+      "savingsPercent": 7
+    },
+    {
+      "id": "nick",
+      "source": "raw/nick.jpg",
+      "optimized": "optimized/nick.webp",
+      "format": "webp",
+      "width": 987,
+      "height": 1481,
+      "bytesRaw": 66981,
+      "bytes": 63934,
+      "savingsPercent": 5
+    },
+    {
+      "id": "noemie",
+      "source": "raw/noemie.jpg",
+      "optimized": "optimized/noemie.webp",
+      "format": "webp",
+      "width": 1069,
+      "height": 1604,
+      "bytesRaw": 67636,
+      "bytes": 62106,
+      "savingsPercent": 8
+    },
+    {
+      "id": "programme-femme-02",
+      "source": "raw/programme-femme-02.jpg",
+      "optimized": "optimized/programme-femme-02.webp",
+      "format": "webp",
+      "width": 1120,
+      "height": 1680,
+      "bytesRaw": 112009,
+      "bytes": 100366,
+      "savingsPercent": 10
+    },
+    {
+      "id": "programme-femme",
+      "source": "raw/programme-femme.jpg",
+      "optimized": "optimized/programme-femme.webp",
+      "format": "webp",
+      "width": 1115,
+      "height": 1673,
+      "bytesRaw": 113499,
+      "bytes": 99296,
+      "savingsPercent": 13
+    }
+  ]
+}

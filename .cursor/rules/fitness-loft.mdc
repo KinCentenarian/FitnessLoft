@@ -1,0 +1,45 @@
+---
+description: Conventions du projet Fitness Loft — monorepo clinique multidisciplinaire
+globs:
+  - "**/*.{ts,tsx,js,mjs}"
+  - "packages/**"
+  - "apps/**"
+---
+
+# Fitness Loft — règles projet
+
+## Structure
+
+- **Contenu** : `packages/content/` — ne jamais mettre de texte utilisateur dans les composants React
+- **Validation** : `packages/schemas/` — schémas Zod partagés client et serveur
+- **UI** : `apps/web/components/` — présentation pure, props typées depuis `@fitnessloft/content`
+- **Logique métier** : `apps/web/features/<domain>/` — formulaires, API, hooks
+
+## Avant de modifier
+
+1. Lire `docs/ARCHITECTURE.md` et `docs/CONTENT.md`
+2. Vérifier la phase courante dans `docs/ROADMAP.md`
+3. Ne pas implémenter les features stub (booking, blog, shop) sans demande explicite
+
+## Conventions code
+
+- TypeScript strict — pas de `any`
+- `import type` pour les types uniquement
+- Server Components par défaut ; `"use client"` seulement si nécessaire
+- IDs stables : services (`health-assessment`), locations (`pointe-claire`)
+- API routes sous `app/api/v1/`
+
+## Commandes
+
+```bash
+npm run typecheck   # depuis la racine
+npm run lint
+npm run format
+```
+
+## Ne pas faire
+
+- Copier le HTML Elementor tel quel
+- Importer `locales/fr/home.ts` directement dans les composants (utiliser `getContent`)
+- Renommer les IDs du `SERVICE_CATALOG`
+- Ajouter une base de données en Phase 1

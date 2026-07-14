@@ -1,0 +1,26 @@
+{
+  "name": "@fitnessloft/content",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./catalog/service-labels": {
+      "types": "./dist/catalog/service-labels.d.ts",
+      "import": "./dist/catalog/service-labels.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "@fitnessloft/config": "*",
+    "eslint": "^9.24.0",
+    "typescript": "^5.8.3"
+  }
+}

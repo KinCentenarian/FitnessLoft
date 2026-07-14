@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #edff00;
+  --color-secondary: #000000;
+  --color-text: #ffffff;
+  --color-accent: #b2b2b2;
+  --color-panel-dark: #111111;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-roboto), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-bodoni), ui-serif, Georgia, serif;
+  --breakpoint-sm: 767px;
+  --breakpoint-md: 1024px;
+  --breakpoint-lg: 1200px;
+  --breakpoint-xl: 1366px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-secondary font-body text-text antialiased;
+  }
+}
+
+@layer utilities {
+  /* Même calligraphie géométrique bold que le wordmark Fitness Loft */
+  .font-brand {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.04em;
+    line-height: 1.1;
+  }
+
+  .font-brand-hero {
+    font-family: var(--font-sans);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -0.04em;
+    line-height: 1.1;
+  }
+
+  .text-watermark {
+    color: #edff00;
+    -webkit-text-fill-color: #edff00;
+    -webkit-text-stroke: 0;
+    font-weight: 800;
+  }
+}
