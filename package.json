@@ -6,6 +6,9 @@
     "packages/*"
   ],
   "scripts": {
+    "dev": "npm run dev -w @fitnessloft/web",
+    "dev:mobile": "npm run dev:mobile -w @fitnessloft/web",
+    "build": "npm run build:packages && npm run build -w @fitnessloft/web",
     "build:packages": "npm run build -w @fitnessloft/content && npm run build -w @fitnessloft/schemas",
     "typecheck": "npm run build -w @fitnessloft/content && npm run build -w @fitnessloft/schemas && npm run typecheck --workspaces --if-present",
     "lint": "npm run lint --workspaces --if-present",
