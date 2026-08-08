@@ -17,7 +17,7 @@ export const promoCopy = {
     emailPlaceholder: "courriel@exemple.com",
     submit: "Obtenir mon rabais",
     dismiss: "Non merci",
-    success: "Merci ! Nous vous contardons bientôt.",
+    success: "Merci ! Nous vous contacterons bientôt.",
     error: "Impossible d'envoyer votre courriel. Réessayez.",
     invalidEmail: "Veuillez entrer un courriel valide.",
   },
