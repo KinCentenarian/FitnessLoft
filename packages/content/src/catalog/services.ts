@@ -5,7 +5,7 @@ export const SERVICE_CATALOG = {
   "private-training": { category: "fitness", bookable: true },
   "group-classes": { category: "fitness", bookable: false },
   "massage-therapy": { category: "clinical", bookable: true },
-  "stronger-longer": { category: "program", bookable: false },
+  "stronger-longer": { category: "program", bookable: false, contactForm: false },
   "golf-tpi": { category: "specialty", bookable: true },
 } as const satisfies Record<string, ServiceCatalogEntry>;
 
@@ -15,4 +15,8 @@ export const SERVICE_IDS = Object.keys(SERVICE_CATALOG) as ServiceId[];
 
 export const BOOKABLE_SERVICE_IDS = SERVICE_IDS.filter(
   (id) => SERVICE_CATALOG[id].bookable,
+);
+
+export const CONTACT_FORM_SERVICE_IDS = SERVICE_IDS.filter(
+  (id) => SERVICE_CATALOG[id].contactForm !== false,
 );

@@ -1,8 +1,11 @@
 import { z } from "zod";
-import { SERVICE_IDS } from "@fitnessloft/content";
+import { CONTACT_FORM_SERVICE_IDS } from "@fitnessloft/content";
 
 const serviceIdSchema = z.enum(
-  SERVICE_IDS as [typeof SERVICE_IDS[number], ...typeof SERVICE_IDS[number][]],
+  CONTACT_FORM_SERVICE_IDS as [
+    (typeof CONTACT_FORM_SERVICE_IDS)[number],
+    ...(typeof CONTACT_FORM_SERVICE_IDS)[number][],
+  ],
 );
 
 export const contactFormSchema = z.object({
