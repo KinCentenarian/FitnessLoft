@@ -4,6 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  # Public / non-secret values that legitimately appear in docs, examples, and the built site.
+  # Keep scanning RESEND_API_KEY (real secret — never commit it).
+  SECRETS_SCAN_OMIT_KEYS = "CONTACT_FROM_EMAIL,CONTACT_TO_EMAIL,NEXT_PUBLIC_GTM_ID,NEXT_PUBLIC_SITE_URL"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
