@@ -75,6 +75,7 @@ export interface GolfTpiContent {
 export interface Testimonial {
   quote: string;
   author: string;
+  source?: string;
 }
 
 export interface TestimonialsContent {

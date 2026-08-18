@@ -192,18 +192,26 @@ export const frHome: HomePageContent = {
     items: [
       {
         quote:
-          "« Vous êtes la MEILLEURE équipe de tous les temps !!! Formation avec Laura depuis 14 ans. Laura est une super kinésiologie , une excellente psychologue qui a réussit à me faire apprécier l'exercice et surtout à réaliser les bienfaits d'être actif peu importe ce que je fais. Finalement, juste apprendre à bouger chaque jour. Mission accomplie Laura ! »",
-        author: "LEILA NAUFAL",
+          "« Worked with Kinesiologist Christophe to create tailored programs to rehab a shoulder injury that have been really effective. Great chill atmosphere that makes it a pleasure to work out here. Absolutely love it! »",
+        author: "Kristina Mansson",
+        source: "Avis Google",
+      },
+      {
+        quote: "« Amazing trainers, clean gym, fun environment. I love itt!!! »",
+        author: "Valentina Franco",
+        source: "Avis Google",
       },
       {
         quote:
-          "« Je suis membre du Loft depuis plus de 5 ans. L'ensemble du personnel est très compétent, professionnel et consciencieux. Ils prépareront un programme d'entraînement adapté à vos besoins, à vos capacités et à vos objectifs. Ils modifieront et amélioreront ensuite ce programme au fil du temps en fonction de l'évolution de vos besoins. Au cours des 2 dernières années, j'ai perdu 11 kilos, qui sont restés stables. Depuis que j'ai rejoint le Loft, je me sens plus forte, j'ai plus d'endurance et je me sens en meilleure forme en général. Le Loft est plus qu'une simple salle de sport. C'est une maison loin de chez soi, avec un personnel professionnel qui se soucie de vous ! »",
-        author: "ANATOLE ZAMOZDRA",
+          "« RIEN de négatif à dire, que se soit les autres personnes qui viennent pour les services ou le staff, 10/10, environnement/endroit safe et super accueillant en tout temps. Déjà fait plus de 4 ans que j'y vais, je recommande totalement, que ce soit pour athlètes de n'importe lequel sport ou pour monsieur-madame tout le monde :) »",
+        author: "Ève Berthiaume",
+        source: "Avis Google",
       },
       {
         quote:
-          "« Je cherchais quelqu'un qui étudiait le corps, ses différentes fonctions et quelqu'un qui pourrait m'aider à gagner en force tout en respectant les limites de mon corps après de nombreuses années de danse de compétition. Linda a été un guide pendant mes années de formation dans les écoles de police en me mettant dans la meilleure forme de ma vie et en m'aidant à maintenir cette force. Elle m'aide maintenant à traverser une nouvelle aventure qui comporte à la fois des défis et des moments incroyables : rester en forme pendant ma grossesse. Si vous hésitez à propos du Fitness Loft, ne le faites pas. »",
-        author: "SACHA OLIVER-MAILLOUX",
+          "« Excellent gym! L'ambiance est dynamique et agréable, ce qui rend les entraînements vraiment motivants. Les appareils sont nombreux, propres et bien entretenus. Les entraîneurs sont compétents et le personnel est toujours souriant. C'est un endroit où l'on se sent à l'aise, peu importe son niveau. Je le recommande fortement! »",
+        author: "Sarah Grenier",
+        source: "Avis Google",
       },
     ],
   },

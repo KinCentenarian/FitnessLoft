@@ -191,18 +191,26 @@ export const enHome: HomePageContent = {
     items: [
       {
         quote:
-          '"You are the BEST team ever!!!! Training with Laura for 14 years. Laura is a super kinesiologist, an excellent psychologist who managed to make me appreciate exercise and especially realize the benefits of being active no matter what I do. Finally, just learning to move every day. Mission accomplished Laura!"',
-        author: "LEILA NAUFAL",
+          '"Worked with Kinesiologist Christophe to create tailored programs to rehab a shoulder injury that have been really effective. Great chill atmosphere that makes it a pleasure to work out here. Absolutely love it!"',
+        author: "Kristina Mansson",
+        source: "Google review",
+      },
+      {
+        quote: '"Amazing trainers, clean gym, fun environment. I love itt!!!"',
+        author: "Valentina Franco",
+        source: "Google review",
       },
       {
         quote:
-          "\"I have been a member of the Loft for over 5 years. The entire staff is very knowledgeable, professional and conscientious. They will prepare a training program tailored to your needs, abilities and goals. They will then modify and improve this program over time as your needs evolve. Over the past 2 years, I've lost 11 kilos, which have remained stable. Since joining the Loft, I feel stronger, I have more stamina and I feel in better shape in general. The Loft is more than just a gym. It's a home away from home, with professional staff who care about you!\"",
-        author: "ANATOLE ZAMOZDRA",
+          '"RIEN de négatif à dire, que se soit les autres personnes qui viennent pour les services ou le staff, 10/10, environnement/endroit safe et super accueillant en tout temps. Déjà fait plus de 4 ans que j\'y vais, je recommande totalement, que ce soit pour athlètes de n\'importe lequel sport ou pour monsieur-madame tout le monde :)"',
+        author: "Ève Berthiaume",
+        source: "Google review",
       },
       {
         quote:
-          "\"I was looking for someone who studied the body, its different functions and someone who could help me gain strength while respecting my body's limits after many years of competitive dance. Linda was a guide during my years of police academy training, getting me into the best shape of my life and helping me maintain that strength. Now she's helping me through a new adventure that includes both challenges and incredible moments: staying in shape during my pregnancy. If you're on the fence about Fitness Loft, don't be.\"",
-        author: "SACHA OLIVER-MAILLOUX",
+          '"Excellent gym! L\'ambiance est dynamique et agréable, ce qui rend les entraînements vraiment motivants. Les appareils sont nombreux, propres et bien entretenus. Les entraîneurs sont compétents et le personnel est toujours souriant. C\'est un endroit où l\'on se sent à l\'aise, peu importe son niveau. Je le recommande fortement!"',
+        author: "Sarah Grenier",
+        source: "Google review",
       },
     ],
   },

@@ -37,6 +37,9 @@ export function TestimonialCarousel({
       <cite className="mt-6 block text-sm font-semibold not-italic tracking-widest text-primary uppercase">
         {item.author}
       </cite>
+      {item.source ? (
+        <p className="mt-1 text-xs tracking-wide text-accent">{item.source}</p>
+      ) : null}
       {items.length > 1 ? (
         <div className="mt-8 flex items-center justify-between">
           <button
